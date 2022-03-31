@@ -1,2 +1,2 @@
-# Blood-Management-System
-Blood Management System in CodeIgniter
+# School-Management-System
+School Management System in CodeIgniter
